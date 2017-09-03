@@ -1,0 +1,33 @@
+#map{
+  width: 45%;
+  height: 400px;
+  margin: 2.5%;
+  float: right;
+}
+
+#error{
+  color: red;
+  font-size: 12px;
+  margin-top: 0px;
+}
+
+#search_box{
+  width: 45%;
+  float: right;
+  margin: 2.5%;
+}
+
+h2{
+  margin-top: 0px;
+}
+
+h1{
+  padding: 30px;
+  text-align: center;
+}
+
+footer{
+  padding-top: 10px;
+  clear: both;
+  text-align: center;
+}
